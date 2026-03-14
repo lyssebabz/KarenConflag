@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: KarenConflag
+## Notes: Conflagrate cooldown timer
+## Author: Karen
+## SavedVariables: KarenConflagDB
+
+KarenConflag.lua
